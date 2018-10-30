@@ -2,4 +2,5 @@
 void main ()
 {
       printf("this is basic c language program");
+      printf("hellow world");
 }
